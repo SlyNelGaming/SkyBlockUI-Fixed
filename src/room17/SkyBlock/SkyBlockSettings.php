@@ -1,1 +1,105 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=47b70f7b9a364d2728cb10b2b5b76fc847da44a1rVZta+M4EP5e6H8YTD/YIYlZ7sNBynaX7dHlYO9YyN2nJATVHie6dSQjyVlym/73HcmyY8cOaY9zqV8088w886JR4tHo9gZGAGt7AVQvrae9nf7t5fSPbmUJEHeftL6MAY7xGo7HysTRA+gzokWrcmw/Hfjo/sC+xo2DWtDVPy7jY6N/UreGlpWbSq1+AjTqjfba8lwTwFKMoX66dXuz//HaKTvAX1uuoVByo9gO6DVTiKBlZr4zhTM4yBISJkBhyrVR/Lk0CNwAE2ksFexkyrODM0SLpUhRgdkiGFQ7DTJzH5///Bu+oNYk+4wCFcvha/mc8wS+8ASFRmBEwa7oLabwXNmzyCdLZu7JwJMkB8xwKcaAnOQK9qg0fcMvtS9vcQxSOSshMzYGBbKwwIiIHyBn5oSd1qmgnNzeCLZDXbAEQUm5e/frcv7t8CmXybd7K729KYltQZ9odlzgkhvcLX+nmxMnOdMaasQcjeFio+EHWaerusejEXzcM9WoOcdWUii+J2JwV+Tlhov7QRRTih36EEoLGwbYoonNYtXH6Fwa/ekw5/8ivIfFahhvgxtCp5ixMjePW9TmTVQTi/iKqmoFI9VbeVOBNNugHiRdvVDhe1VIpCCbZUIep43Wx4LZvm9q4XNfy2vXVbdmpUhsE9E8aIyF59CoLre97gztrslDJSG+3dK2NBTSvtPbMPKil0thecJVdqiGVLyTTKEplQAuzJUANmjmp+qHbWvRzOLbQXirnmmraxYOsIIPH+DdVd7eStVO1+n91mqvkDhVzXSR1UA3vjaFm7oPe1ydz+tUH88bOuyZvh5Ab1csTmiX4f8SqHdRb6Xrofzht9YrMl7vwjdmm6coDM84qnONyt8dUxt9IYJX8w/73sZt+25yUIherb1hfVh2r3bjXLSMuYIE3hmELUkEQhrI7EEV3A+arefFbGYUE9oeRY8yl0qHtVLUAmZSIUu2YUWbjkn7Au8f4G7P8hI7w+bMEQW3VljkdJaFwY8AphV2CsFLMPb4MQw5fenX3GsNFfu8DM0om8Fe8nRgHNrDigj+o6VYp5jIFMOM57imAtrBaiiZlI326Jw82JFAsCeZ00+MMLJhaD/Zp9ZQEI2BBnInjrMK/g8ua1PXXHaP1lbYi8CJJs+HiZ2dwaqPbe/wTr/QNtFo52fDtLLoARM3QoLVAJ3ecGkfnZ02a9t1qEmBatJMomDlevC7VHnqutD+/tH9Lrw40xxydTGsyly/FZuGe/kJ
+/**
+ *  _____    ____    ____   __  __  __  ______
+ * |  __ \  / __ \  / __ \ |  \/  |/_ ||____  |
+ * | |__) || |  | || |  | || \  / | | |    / /
+ * |  _  / | |  | || |  | || |\/| | | |   / /
+ * | | \ \ | |__| || |__| || |  | | | |  / /
+ * |_|  \_\ \____/  \____/ |_|  |_| |_| /_/
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+namespace room17\SkyBlock;
+
+
+use pocketmine\item\Item;
+
+class SkyBlockSettings {
+    
+    /** @var SkyBlock */
+    private $plugin;
+    
+    /** @var array */
+    private $data;
+    
+    /** @var string[] */
+    private $slotsBySize = [];
+    
+    /** @var Item[] */
+    private $defaultChest;
+    
+    /** @var array */
+    private $chestPerGenerator;
+    
+    /** @var string[] */
+    private $messages = [];
+    
+    /**
+     * SkyBlockSettings constructor.
+     * @param SkyBlock $plugin
+     */
+    public function __construct(SkyBlock $plugin) {
+        $this->plugin = $plugin;
+        $this->refresh();
+    }
+    
+    /**
+     * @param string $size
+     * @return int
+     */
+    public function getSlotsBySize(string $size): int {
+        return $this->slotsBySize[$size] ?? 1;
+    }
+    
+    /**
+     * @return Item[]
+     */
+    public function getDefaultChest(): array {
+        return $this->defaultChest;
+    }
+    
+    /**
+     * @param string $generator
+     * @return array
+     */
+    public function getChestPerGenerator(string $generator): array {
+        return $this->chestPerGenerator[$generator] ?? $this->defaultChest;
+    }
+    
+    /**
+     * @return string[]
+     */
+    public function getMessages(): array {
+        return $this->messages;
+    }
+    
+    /**
+     * @param string $identifier
+     * @param array $args
+     * @return string
+     */
+    public function getMessage(string $identifier, array $args = []): string {
+        $message = $this->messages[$identifier] ?? "Message ($identifier) not found";
+        $message = SkyBlock::translateColors($message);
+        foreach($args as $arg => $value) {
+            $message = str_replace("{" . $arg . "}", $value, $message);
+        }
+        return $message;
+    }
+    
+    public function refresh(): void {
+        $this->data = json_decode(file_get_contents($this->plugin->getDataFolder() . "settings.json"), true);
+        $this->messages = json_decode(file_get_contents($this->plugin->getDataFolder() . "messages.json"), true);
+        $this->slotsBySize = $this->data["slots-by-size"];
+        $this->defaultChest = SkyBlock::parseItems($this->data["default-chest"]);
+        $this->chestPerGenerator = [];
+        foreach($this->data["chest-per-generator"] as $world => $items) {
+            $this->chestPerGenerator[$world] = SkyBlock::parseItems($items);
+        }
+    }
+    
+}
