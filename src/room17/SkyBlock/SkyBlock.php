@@ -1,1 +1,231 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=27d0d952f8ac8d736a74b0042d8da04236b3d8d6pVhtcxo3EP6emfyHDeO2h4caO5lpZ3ATF9sY0xCbAp40NR5GPgS++DhRSeB4gv97V7r3053hHDwGbrX7aLX7aLWivrv7+hXsAozVC8D/kvhUb/G/emn9tZaMAOrpT5SP6gDr+hjWax9iHRjgYxWFSmWd/NTGa/0H6ms9miAcSOuvR/V1pB+rK6CRP42vFn4CROqR9lj5OUYD5WIdwk8tV2/qvz7WytpgeOcIWHA242QO+HXKKQXBpvKBcNqAR7YEm3jA6cQRkju3S0nBkUC8SZ1xmLOJM33UQChcehPKQd5RkJTPBbCpfmhfXEGXCoFjbepRTlzoLW9dx4auY1NPUCDogpKIOzqBWx9PWZ4pZwaBM3DGcAIiHebVgDo4zmFFucBneBfOFSDWgHGNYhGp1sCBLZRhFR1/BJfI2HYvDAXG5PUrj8ypWBCbAmdsfvD7aHD/eOwy+/5QjS7R1wU+UDl3PDpyJJ2POvh2aAy5dEXdUY8JR01rji/c5czxRj39cUwENVUGlKOLpnwpHVeMhvSbPGN8TmSgkfF3ZLP5HLM06giXnvjfP5FFgfJM50UyrtXb4dMn4pFZ5EPWyEFVrf+8GpJr5SAxRl8F80Z/DS4veoFkk8EGPYGcwuBioPRn7MXrV7ZLhIBQEzBW1JsIiMMN35Wa3pa7u/DnivBYWzFBjSy4s0KmgJBIOht22O1Xakt4D97SdQ8L7QdUSsebCQNnRwQjh748Yx+u1rRbxHHIsUsvP2/WTHhyMBJZNAGcVIoLrGOKmQB2kn4F9lnOmSgzk5V50Qiy0MVypQxMHNyZngyHUyALvypNl56tdi0wr8vIxKo2YMWciaIMBC9B3WmjETNiR2IZPYzHnan1xhHjicMtPfTrhxmVp0SSM+ZiIq1qtZqEU6/5/TPaCein+GugLMiK9qnAKmdTq4L1S2B4xJ7abpWkZa56yMm0+lPIbjMkLY/cujQvKCF+yH/cKPTB2Bb+EnP8Clke2CULRaFNmtvhjClhoW2C1oFhYhcUWmVZmDDNUrgQI94PCet4AxXapZibCW8oNo2RizGr/EPFqvoPC/Lg9cnEWQqrCh9g3yBlbNhls5lviGexh4m0Kj2XEnXUYmegKKHPX6EgVT8haUgY//wVeuI9HFlQLh0q8IhWR/iDg8U4Kr0PzPtF4ju/B5txjhjuY+V59qd8c7wpsyoxHDYWVPN1sg21T/2F5HF7yjgl9p1lckd7oBKoYojz6XJpBlJJ/b1n/dh6gmjnLKiuO171wlrIqVxyL4psOFBPrT042aIQqJV4KPRsHYRo3sRiAtxUAYwdSRXkQmfCUpDvVNKbqGgkvInOV9OrTAXa1q+wzGz2JypI6E90Xhf6kTm3N8cnVbi2iU6q0KkYpevhMxHK6Qk2+peoj5udSxZT9CzZYRS6ZXYaz5I7r+hudswo04F3RgdS6GZBJ1IcvwXRtytPqm7MZtiKGmtRlytvtt02xVbGw+RrICuJiivxcVLH8hyPiqnLGJ4NgR5eF3/bTx0wwtT5KaMTOGpZCPgHHOzDEVT2K9CASqUKe2qaPag0KviOGHkalu9bFWerbhmy8AKFPXDw7YcC98DxyhZiWiZ4bvyCeSrfIzW/SKsbXnCQXuCt0ao+1TIq/+TIvuTI/kVZZcuIBP4Vx0NdTta9zOgGPhEu4rBkZ8CgHEWhSvKKcE4ekTf028JlE+wla5Vawizdgjh4/5eWb3P97sbsf3f0lRnh/Bal0UgdRnHIjx91tAOk/ZvkPGG740O98W9qxkyJpKoOKlq4hRuAyGqwsOuDm1pG8taQvLupBY5n3XjKPeMTOdqU755KChCscpLOQ2kRG5yETpoJSestWKDUrSSqyr4SpjKPqlIYmdfqhzk9k6+ueqN7ioT5ADsr4i5zmiSteK20bhBdlbZqoJvfMsW88i33c3gVnhXonOZUrFsLJzy4gaMj2I+e3+rng4I+rUQOgyz5G0XHxyz8erBkhoSVhMQU+Y/JFHEqlq66ml7f5KVEG/rtqsqa2a6qlL8P2ryYGUaOwx2n9Z/bcIFD1yqxWrvMfgmMS5bI4Cb8QyeG5MQT6vfCE+YyLqwMdsGB6w+q+Ek+5nThEnXV/hk3SfyzXaPRGpw0e61aDHa4GeP7cbd58vEpg6SFJYFOm/2P4+PuVSsLFg28BLDdb7UuchH1yEsgm39fNXMR1cBLAPut01w8lL8ErnfV73Xzo+gPlQS97Dcv2gZe+7Jb1rt2v/nFgEHZy/JqYkUDpSlsku4FfMul2ktYlkewF3Arh1blGdXttM+HBZRKjpWE/dLqdi8/ZwF9aUmoz+edoeGaFpbl+fHZFVbAoRm2eKQss3CTGMwqv3EGw37nY2t43r+8ap9n8VKDJYGvLk5b/W7nwohfNFASsDNsdjsnWTRfWpq+g9bQJDAK84HCozkY2vY3hDKHb3DPplee89+SdvQv8cX3M7yZq8vn3LE5k848/p0t8unpfw==
+/**
+ *  _____    ____    ____   __  __  __  ______
+ * |  __ \  / __ \  / __ \ |  \/  |/_ ||____  |
+ * | |__) || |  | || |  | || \  / | | |    / /
+ * |  _  / | |  | || |  | || |\/| | | |   / /
+ * | | \ \ | |__| || |__| || |  | | | |  / /
+ * |_|  \_\ \____/  \____/ |_|  |_| |_| /_/
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+namespace room17\SkyBlock;
+
+use pocketmine\item\Item;
+use pocketmine\level\Position;
+use pocketmine\plugin\PluginBase;
+use pocketmine\Server;
+use pocketmine\utils\TextFormat;
+use room17\SkyBlock\command\IsleCommandMap;
+use room17\SkyBlock\generator\IsleGeneratorManager;
+use room17\SkyBlock\isle\IsleManager;
+use room17\SkyBlock\provider\json\JSONProvider;
+use room17\SkyBlock\provider\Provider;
+use room17\SkyBlock\session\SessionManager;
+
+class SkyBlock extends PluginBase {
+
+    /** @var SkyBlock */
+    private static $object = null;
+
+    /** @var SkyBlockSettings */
+    private $settings;
+    
+    /** @var Provider */
+    private $provider;
+    
+    /** @var SessionManager */
+    private $sessionManager;
+    
+    /** @var IsleManager */
+    private $isleManager;
+    
+    /** @var IsleCommandMap */
+    private $commandMap;
+    
+    /** @var IsleGeneratorManager */
+    private $generatorManager;
+    
+    /** @var SkyBlockListener */
+    private $eventListener;
+    
+    public function onLoad(): void {
+        self::$object = $this;
+        if(!is_dir($this->getDataFolder())) {
+            mkdir($this->getDataFolder());
+        }
+        $this->saveResource("messages.json");
+        $this->saveResource("settings.json");
+    }
+
+    public function onEnable(): void {
+        $this->settings = new SkyBlockSettings($this);
+        $this->provider = new JSONProvider($this);
+        $this->sessionManager = new SessionManager($this);
+        $this->isleManager = new IsleManager($this);
+        $this->generatorManager = new IsleGeneratorManager($this);
+        $this->commandMap = new IsleCommandMap($this);
+        $this->eventListener = new SkyBlockListener($this);
+        if($this->getServer()->getSpawnRadius() > 0) {
+            $this->getLogger()->warning("Please, disable the spawn protection on your server.properties, otherwise SkyBlock won't work correctly");
+        }
+        $this->getLogger()->info("SkyBlock was enabled");
+    }
+
+    public function onDisable(): void {
+        foreach($this->isleManager->getIsles() as $isle) {
+            $isle->save();
+        }
+        $this->getLogger()->info("SkyBlock was disabled");
+    }
+
+    /**
+     * @return SkyBlock
+     */
+    public static function getInstance(): SkyBlock {
+        return self::$object;
+    }
+    
+    /**
+     * @return SkyBlockSettings
+     */
+    public function getSettings(): SkyBlockSettings {
+        return $this->settings;
+    }
+    
+    /**
+     * @return Provider
+     */
+    public function getProvider(): Provider {
+        return $this->provider;
+    }
+    
+    /**
+     * @return SessionManager
+     */
+    public function getSessionManager(): SessionManager {
+        return $this->sessionManager;
+    }
+    
+    /**
+     * @return IsleManager
+     */
+    public function getIsleManager(): IsleManager {
+        return $this->isleManager;
+    }
+
+    /**
+     * @return IsleGeneratorManager
+     */
+    public function getGeneratorManager(): IsleGeneratorManager {
+        return $this->generatorManager;
+    }
+    
+    /**
+     * @param int $seconds
+     * @return string
+     */
+    public static function printSeconds(int $seconds): string {
+        $m = floor($seconds / 60);
+        $s = floor($seconds % 60);
+        return (($m < 10 ? "0" : "") . $m . ":" . ($s < 10 ? "0" : "") . (string) $s);
+    }
+    
+    /**
+     * @param Position $position
+     * @return string
+     */
+    public static function writePosition(Position $position): string {
+        return "{$position->getLevel()->getName()},{$position->getX()},{$position->getY()},{$position->getZ()}";
+    }
+    
+    /**
+     * @param string $position
+     * @return null|Position
+     */
+    public static function parsePosition(string $position): ?Position {
+        $array = explode(",", $position);
+        if(isset($array[3])) {
+            $level = Server::getInstance()->getLevelByName($array[0]);
+            if($level != null) {
+                return new Position((float) $array[1],(float) $array[2],(float) $array[3], $level);
+            }
+        }
+        return null;
+    }
+    
+    /**
+     * Parse an Item
+     *
+     * @param string $item
+     * @return null|Item
+     */
+    public static function parseItem(string $item): ?Item {
+        $parts = explode(",", $item);
+        foreach($parts as $key => $value) {
+            $parts[$key] = (int) $value;
+        }
+        if(isset($parts[0])) {
+            return Item::get($parts[0], $parts[1] ?? 0, $parts[2] ?? 1);
+        }
+        return null;
+    }
+    
+    /**
+     * @param array $items
+     * @return array
+     */
+    public static function parseItems(array $items): array {
+        $result = [];
+        foreach($items as $item) {
+            $item = self::parseItem($item);
+            if($item != null) {
+                $result[] = $item;
+            }
+        }
+        return $result;
+    }
+    
+    /**
+     * @param string $message
+     * @return string
+     */
+    public static function translateColors(string $message): string {
+        $message = str_replace("&", TextFormat::ESCAPE, $message);
+        $message = str_replace("{BLACK}", TextFormat::BLACK, $message);
+        $message = str_replace("{DARK_BLUE}", TextFormat::DARK_BLUE, $message);
+        $message = str_replace("{DARK_GREEN}", TextFormat::DARK_GREEN, $message);
+        $message = str_replace("{DARK_AQUA}", TextFormat::DARK_AQUA, $message);
+        $message = str_replace("{DARK_RED}", TextFormat::DARK_RED, $message);
+        $message = str_replace("{DARK_PURPLE}", TextFormat::DARK_PURPLE, $message);
+        $message = str_replace("{ORANGE}", TextFormat::GOLD, $message);
+        $message = str_replace("{GRAY}", TextFormat::GRAY, $message);
+        $message = str_replace("{DARK_GRAY}", TextFormat::DARK_GRAY, $message);
+        $message = str_replace("{BLUE}", TextFormat::BLUE, $message);
+        $message = str_replace("{GREEN}", TextFormat::GREEN, $message);
+        $message = str_replace("{AQUA}", TextFormat::AQUA, $message);
+        $message = str_replace("{RED}", TextFormat::RED, $message);
+        $message = str_replace("{LIGHT_PURPLE}", TextFormat::LIGHT_PURPLE, $message);
+        $message = str_replace("{YELLOW}", TextFormat::YELLOW, $message);
+        $message = str_replace("{WHITE}", TextFormat::WHITE, $message);
+        $message = str_replace("{OBFUSCATED}", TextFormat::OBFUSCATED, $message);
+        $message = str_replace("{BOLD}", TextFormat::BOLD, $message);
+        $message = str_replace("{STRIKETHROUGH}", TextFormat::STRIKETHROUGH, $message);
+        $message = str_replace("{UNDERLINE}", TextFormat::UNDERLINE, $message);
+        $message = str_replace("{ITALIC}", TextFormat::ITALIC, $message);
+        $message = str_replace("{RESET}", TextFormat::RESET, $message);
+        return $message;
+    }
+    
+    /**
+     * @return string
+     */
+    public static function generateUniqueId(): string {
+        return "is-" . microtime();
+    }
+    
+}
