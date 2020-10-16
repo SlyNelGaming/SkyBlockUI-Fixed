@@ -1,1 +1,200 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=91bdec213cdd3f5d71839dde0f422d0ee71099e37Vhbb9s2FH4PkP/AFHmQg6TGsAEDUiQokqZtgCTzahd7qIuAkWibiywKJOXOm/Pfd0hKFClRtrK1GzDMbUyL58Jz+c4hqeHR0f4eOkLoXn0QMj+cUX3Vf+qj+Td6ZorQ0B9hfjpEaDO8R5uNUbEpBeBxAJOKZeOOWnij/yH1c2gXqAg+/2Y63Fj+ml0pmpplDFs1ImTZLfe9svMeBJSJQ1SNel59qb/hvWbWApMFFSjnbM7xEsHPGScECTaTXzAnp2jNChTjDHGSUCE5fSgkQVQinCVDxtGSJXS21opgssgSwpFcECQJXwrEZvrh3d1HdEOEANo7khGOUzQqHlIaoxsak0wQhMEENSMWJEEPRp+SfKuMGZfGoLcMFsCSsuwYEQp0jlaEC3hG31drlRqPEeNaS4Sl8oEjlivBARi+RimWtezLKhQQk/29DC+JyHFMEGds+d2P0/Hj+iJl8eMrRS3A1hweiFzSjEwfFGE6ZilNXrWIJJNUrqfs4VcSy+kIU3jO5gG+FXCWqvRKF5zgxys124N5lIKtW5lLO6708AYv8ZxcrM3Tc+W28qcwpNPLRZE93jCc9OC9Ud8fs3QX9w0gT+Gmi56neE34dKSHywWWW7V53NcZIAHHz5D4uaBd3IahPS9pSiAwRMgO2gS+SlIDddO5LhjJ+PRapORd9dTBTYFHM97iDPLVxSagGAH507EZ+3HVKvf34hQLgSrOKj+ILvOULCE2Atm5PxS/bn9HR+j1CnMrpitOUXJOV1CR6DBPizlV5qjZppRnRVtWNK0M6HAi01ZAvbBZSfMDOknL25hl0BGLGNLxsuKy3K9zrBqq9bX0raJXi5s2OCuyWHUn2Gis0qgpOlChROXnUELbPjk3FHTWCJ3D4Yel5jw5nxPpxzQatMWdoDRknVj6gp5+vlJk/TDS81bk5JyTuQol19UkIr3isfW2VPnUSGQzwKbmlJQaayonsuBZhZodYa9DEfn6BqeVBjf4pW4vB8F4upNRpbKnY34jRYe6Fe3wg2VWKgrKgz8rRhMPSboXq+RqDm2ybsx+VhUQFFPLZw8HdiYyavXzHWyp0cDVRmdRqfAMZUWaetCuI+xIPDmm2JYYtMe2SN8oOw04W+faFWWBpk1gwjfQ6xhW1F26SoGBPBNUJ+DMYTk9BdW6649KctSMQR0jna3IKjo5/w2dn6MfjpEz9bueGkDQvGQZUXWwSew0FXfkS0loBdc6p41Dh7EeXIe0U2b6DKnN6fQ0hkOJJOp3ZCYu31+NJ8clfI6Nrort7mJS++IFVn1mDJjiRRSqH6nOSKLMmQke4Y3cDdRx8ZBKsmy5VhtukJipcDC+VgpxklyDTGQkGzY9taC2qz4bR7W+BaolorBwqDpN0/DL0/Qovz7LPl+XRHfnCdSz0+adEjZibkfYVc8HHfUMDAdlvcFlojp0RZXVg3AiS6raxLJkwnEm1ME9GbG8yKMXtx/Hk/vbK/h/e3H14UUzo1pDGTMBWMJZTNKUJFEr9YikgigLo7p8HHa/ssB/nTwoOAo7tWKDm4e+AoSdMF4nAEnO1qXo1wFfffTvCz4tEYWF/wfffxZ80Pm+FvACt6a+4LOB79bx72Gwx4HmLwNSp/Ag2grBVvr+Hv52Yu9Z6bZX6v6nUFyluSkbSnH7jrLzZN2ReV+Tj4E2fBpJO4jqoC+w0FmHxMBhz6VQcW38CyRt67GVk5jmVF+Oz9Cnzw6XPRB1my8ic+qBezovp0J9zqW7ppou4hErXJfnSdGaD3eU2otPn1XEmzoDpRnuNA2YfrB6I2eNvpel1kuqvkh9X3AZdUkHsKpirGluA+58tdauavNSze9mRqAVssNEK2y0PrNKO8C99lSzeo8W1tnGKh2u++WVGeokSC1ffBoIVj61xNtQ010z1DTb7b3UOhgMOlDbayve3h07sdd8i9kXekbE5KFDRwCAtle0butO+VXdotz2WiistjJJUpIzLoNXMefVzRsyw0XqLTTGMzLO8ZfMB86z9hX7KrURMuDilHEFpJuffoFr5s5YKk1RWOk/fabYtot1vTOzSQ2VbZVMRQv2fFMicGxkLK/uydvPtkaCkyVbkZBUv+ZddZxvfX7/hnB1oiH5esIuUyZIx0Fpf+/pTw==
+/**
+ *  _____    ____    ____   __  __  __  ______
+ * |  __ \  / __ \  / __ \ |  \/  |/_ ||____  |
+ * | |__) || |  | || |  | || \  / | | |    / /
+ * |  _  / | |  | || |  | || |\/| | | |   / /
+ * | | \ \ | |__| || |__| || |  | | | |  / /
+ * |_|  \_\ \____/  \____/ |_|  |_| |_| /_/
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ */
+
+namespace room17\SkyBlock;
+
+use pocketmine\block\Solid;
+use pocketmine\entity\object\Painting;
+use pocketmine\event\block\BlockBreakEvent;
+use pocketmine\event\block\BlockPlaceEvent;
+use pocketmine\event\entity\EntityDamageByEntityEvent;
+use pocketmine\event\entity\EntityDamageEvent;
+use pocketmine\event\level\ChunkLoadEvent;
+use pocketmine\event\level\LevelUnloadEvent;
+use pocketmine\event\Listener;
+use pocketmine\event\player\PlayerChatEvent;
+use pocketmine\event\player\PlayerInteractEvent;
+use pocketmine\event\player\PlayerQuitEvent;
+use pocketmine\Player;
+use pocketmine\tile\Chest;
+use pocketmine\tile\Tile;
+use room17\SkyBlock\generator\IsleGenerator;
+use room17\SkyBlock\isle\IsleManager;
+use room17\SkyBlock\session\Session;
+use room17\SkyBlock\session\SessionManager;
+
+class SkyBlockListener implements Listener {
+
+    /** @var SkyBlock */
+    private $plugin;
+    
+    /** @var SessionManager */
+    private $sessionManager;
+    
+    /** @var IsleManager */
+    private $isleManager;
+
+    /**
+     * SkyBlockListener constructor.
+     *
+     * @param SkyBlock $plugin
+     */
+    public function __construct(SkyBlock $plugin) {
+        $this->plugin = $plugin;
+        $this->sessionManager = $plugin->getSessionManager();
+        $this->isleManager = $plugin->getIsleManager();
+        $plugin->getServer()->getPluginManager()->registerEvents($this, $plugin);
+    }
+    
+    /**
+     * @param Player $player
+     * @return Session
+     */
+    public function getSession(Player $player): Session {
+        return $this->plugin->getSessionManager()->getSession($player);
+    }
+    
+    /**
+     * @param ChunkLoadEvent $event
+     */
+    public function onChunkLoad(ChunkLoadEvent $event): void {
+        $level = $event->getLevel();
+        $isle = $this->plugin->getIsleManager()->getIsle($level->getName());
+        if($isle == null) {
+            return;
+        }
+        $generator = $this->plugin->getGeneratorManager()->getGenerator($type = $isle->getType());
+        /** @var IsleGenerator $generator */
+        $position = $generator::getChestPosition();
+        if($level->getChunk($position->x >> 4, $position->z >> 4) === $event->getChunk() and $event->isNewChunk()) {
+            /** @var Chest $chest */
+            $chest = Tile::createTile(Tile::CHEST, $level, Chest::createNBT($position));
+            foreach($this->plugin->getSettings()->getChestPerGenerator($type) as $item) {
+                $chest->getInventory()->addItem($item);
+            }
+        }
+    }
+    
+    /**
+     * @param BlockBreakEvent $event
+     */
+    public function onBreak(BlockBreakEvent $event): void {
+        $player = $event->getPlayer();
+        $session = $this->getSession($player);
+        $isle = $this->isleManager->getIsle($player->getLevel()->getName());
+        if($isle != null) {
+            if(!$isle->canInteract($session)) {
+                $session->sendTranslatedPopup("MUST_ME_MEMBER");
+                $event->setCancelled();
+            } elseif(!($event->isCancelled()) and $event->getBlock() instanceof Solid) {
+                $isle->destroyBlock();
+            }
+        }
+    }
+    
+    /**
+     * @param BlockPlaceEvent $event
+     */
+    public function onPlace(BlockPlaceEvent $event): void {
+        $player = $event->getPlayer();
+        $session = $this->getSession($player);
+        $isle = $this->isleManager->getIsle($player->getLevel()->getName());
+        if($isle != null) {
+            if(!$isle->canInteract($session)) {
+                $session->sendTranslatedPopup("MUST_ME_MEMBER");
+                $event->setCancelled();
+            } elseif(!($event->isCancelled()) and $event->getBlock() instanceof Solid) {
+                $isle->addBlock();
+            }
+        }
+    }
+    
+    /**
+     * @param PlayerInteractEvent $event
+     */
+    public function onInteract(PlayerInteractEvent $event): void {
+        $player = $event->getPlayer();
+        $session = $this->getSession($player);
+        $isle = $this->plugin->getIsleManager()->getIsle($player->getLevel()->getName());
+        if($isle != null and !($isle->canInteract($session))) {
+            $session->sendTranslatedPopup("MUST_ME_MEMBER");
+            $event->setCancelled();
+        }
+    }
+    
+    /**
+     * @param PlayerChatEvent $event
+     */
+    public function onChat(PlayerChatEvent $event): void {
+        $sessionManager = $this->plugin->getSessionManager();
+        $session = $sessionManager->getSession($event->getPlayer());
+        if(!($session->hasIsle()) or !($session->isInChat())) {
+            return;
+        }
+        $recipients = [];
+        foreach($sessionManager->getSessions() as $userSession) {
+            if($userSession->isInChat() and $userSession->getIsle() === $session->getIsle()) {
+                $recipients[] = $userSession->getPlayer();
+            }
+        }
+        $event->setRecipients($recipients);
+    }
+    
+    /**
+     * @param EntityDamageEvent $event
+     */
+    public function onHurt(EntityDamageEvent $event): void {
+        if($event instanceof EntityDamageByEntityEvent) {
+            $entity = $event->getEntity();
+            $damager = $event->getDamager();
+            $isle = $this->isleManager->getIsle($entity->getLevel()->getName());
+            if($isle != null and ($entity instanceof Player or ($entity instanceof Painting and $damager instanceof Player
+                and !$isle->canInteract($this->getSession($damager))))) {
+                $event->setCancelled();
+            }
+        }
+    }
+    
+    
+    /**
+     * @param LevelUnloadEvent $event
+     */
+    public function onUnloadLevel(LevelUnloadEvent $event): void {
+        foreach($event->getLevel()->getPlayers() as $player) {
+            $player->teleport($this->plugin->getServer()->getDefaultLevel()->getSafeSpawn());
+        }
+    }
+    
+    /**
+     * @param PlayerQuitEvent $event
+     * @priority LOWEST
+     */
+    public function onQuit(PlayerQuitEvent $event): void {
+        $player = $event->getPlayer();
+        $session = $this->getSession($player);
+        $isleManager = $this->plugin->getIsleManager();
+        foreach($isleManager->getIsles() as $isle) {
+            if($isle->isCooperator($session)) {
+                $isle->removeCooperator($session);
+            }
+        }
+        $isle = $isleManager->getIsle($player->getLevel()->getName());
+        if($isle != null) {
+            $player->teleport($this->plugin->getServer()->getDefaultLevel()->getSafeSpawn());
+            $isle->tryToClose();
+        }
+    }
+
+}
