@@ -1,2 +1,3 @@
-# SkyBlockUI-1
-Plugin SkyBlock, but with UI!
+# SkyBlockUI-Fixed
+
+Fixed version of SkyBlockui open an gui with /sbui!
