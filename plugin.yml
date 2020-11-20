@@ -1,10 +1,13 @@
 ---
 name: SkyBlock
 description: A powerful core for SkyBlock servers edited UI by ZioCraft
-author: GiantQuartz
-editor: ZioCraft132
-website: twitter.com/GiantQuartz
-main: room17\SkyBlock\SkyBlock
+author: 
+- Teunboeke 
+- GiantQuartz
+- ZioCraft132
 version: 1.1.0
 api: 3.0.0
+main: room17\SkyBlock\SkyBlock
+
+
 ...
